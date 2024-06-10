@@ -1,0 +1,103 @@
+{
+  "Monday, July 8, 2024": [
+    {
+      "time": "9:00AM - 12:00PM",
+      "room": "BR,C Block.Lvl 4,Rm 006 - Computer Lab (18C) (Bracken Ridge (TQBN))",
+      "units": ["ICTPRG430", "ICTPRG549", "ICTPRG534"]
+    },
+    {
+      "time": "1:00PM - 4:00PM",
+      "room": "BR,C Block.Lvl 4,Rm 006 - Computer Lab (18C) (Bracken Ridge (TQBN))",
+      "units": ["ICTPRG430", "ICTPRG549", "ICTPRG534"]
+    }
+  ],
+  "Wednesday, July 10, 2024": [
+    {
+      "time": "9:00AM - 12:00PM",
+      "room": "BR,C Block.Lvl 4,Rm 006 - Computer Lab (18C) (Bracken Ridge (TQBN))",
+      "units": ["ICTPRG443"]
+    },
+    {
+      "time": "1:00PM - 4:00PM tutorial",
+      "room": "BR,C Block.Lvl 4,Rm 005 - Computer Lab (18C) (Bracken Ridge (TQBN))",
+      "units": ["ICTICT523", "ICTPRG430", "ICTPRG549", "ICTPRG534", "ICTPRG443"]
+    }
+  ],
+  "Thursday, July 11, 2024": [
+    {
+      "time": "11:00AM - 3:00PM independent study",
+      "units": ["ICTICT523", "ICTPRG430", "ICTPRG549", "ICTPRG534", "ICTPRG443"]
+    }
+  ],
+  "Friday, July 12, 2024": [
+    {
+      "time": "9:00AM - 12:00PM",
+      "room": "BR,C Block.Lvl 4,Rm 006 - Computer Lab (18C) (Bracken Ridge (TQBN))",
+      "units": ["ICTICT523"]
+    },
+    {
+      "time": "1:00PM - 4:00PM",
+      "room": "BR,C Block.Lvl 4,Rm 006 - Computer Lab (18C) (Bracken Ridge (TQBN))",
+      "units": ["ICTICT523"]
+    }
+  ],
+  "Monday, July 15, 2024": [
+    {
+      "time": "9:00AM - 12:00PM",
+      "room": "BR,C Block.Lvl 4,Rm 006 - Computer Lab (18C) (Bracken Ridge (TQBN))",
+      "units": ["ICTPRG430", "ICTPRG549", "ICTPRG534"]
+    },
+    {
+      "time": "1:00PM - 4:00PM",
+      "room": "BR,C Block.Lvl 4,Rm 006 - Computer Lab (18C) (Bracken Ridge (TQBN))",
+      "units": ["ICTPRG430", "ICTPRG549", "ICTPRG534"]
+    }
+  ],
+  "Wednesday, July 17, 2024": [
+    {
+      "time": "9:00AM - 12:00PM",
+      "room": "BR,C Block.Lvl 4,Rm 006 - Computer Lab (18C) (Bracken Ridge (TQBN))",
+      "units": ["ICTPRG443"]
+    }
+  ],
+  "Thursday, July 18, 2024": [
+    {
+      "time": "11:00AM - 3:00PM independent study",
+      "units": ["ICTICT523", "ICTDBS506", "ICTPRG430", "ICTPRG549", "ICTPRG534", "ICTPRG443"]
+    }
+  ],
+  "Friday, July 19, 2024": [
+    {
+      "time": "9:00AM - 12:00PM",
+      "room": "BR,C Block.Lvl 4,Rm 006 - Computer Lab (18C) (Bracken Ridge (TQBN))",
+      "units": ["ICTICT523", "ICTDBS506"]
+    },
+    {
+      "time": "1:00PM - 4:00PM",
+      "room": "BR,C Block.Lvl 4,Rm 006 - Computer Lab (18C) (Bracken Ridge (TQBN))",
+      "units": ["ICTICT523", "ICTDBS506"]
+    }
+  ],
+  "Monday, July 22, 2024": [
+    {
+      "time": "9:00AM - 12:00PM",
+      "room": "BR,C Block.Lvl 4,Rm 006 - Computer Lab (18C) (Bracken Ridge (TQBN))",
+      "units": ["ICTPRG430", "ICTPRG549", "ICTPRG534"]
+    },
+    {
+      "time": "1:00PM - 4:00PM",
+      "room": "BR,C Block.Lvl 4,Rm 006 - Computer Lab (18C) (Bracken Ridge (TQBN))",
+      "units": ["ICTPRG430", "ICTPRG549", "ICTPRG534"]
+    }
+  ],
+  "Wednesday, July 24, 2024": [
+    {
+      "time": "9:00AM - 12:00PM",
+      "room": "BR,C Block.Lvl 4,Rm 006 - Computer Lab (18C) (Bracken Ridge (TQBN))",
+      "units": ["ICTPRG443"]
+    }
+  ],
+  "Thursday, July 25, 2024": [
+    {
+      "time": "11:00AM - 3:00PM independent study",
+      "units": ["ICTICT523", "ICTDBS506",
