@@ -2,7 +2,7 @@ import discord
 import datetime
 import asyncio
 
-# Your schedule data
+# Your schedule data TODO: Load from file
 schedule = {
     "Monday, July 8, 2024": [
         {"time": "9:00AM - 12:00PM", "units": ["ICTPRG430", "ICTPRG549", "ICTPRG534"]},
